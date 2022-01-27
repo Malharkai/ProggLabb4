@@ -1,0 +1,15 @@
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\bin\Debug\net6.0\ProgLabb4.exe
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\bin\Debug\net6.0\ProgLabb4.deps.json
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\bin\Debug\net6.0\ProgLabb4.runtimeconfig.json
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\bin\Debug\net6.0\ProgLabb4.dll
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\bin\Debug\net6.0\ref\ProgLabb4.dll
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\bin\Debug\net6.0\ProgLabb4.pdb
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\obj\Debug\net6.0\ProgLabb4.csproj.AssemblyReference.cache
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\obj\Debug\net6.0\ProgLabb4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\obj\Debug\net6.0\ProgLabb4.AssemblyInfoInputs.cache
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\obj\Debug\net6.0\ProgLabb4.AssemblyInfo.cs
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\obj\Debug\net6.0\ProgLabb4.csproj.CoreCompileInputs.cache
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\obj\Debug\net6.0\ProgLabb4.dll
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\obj\Debug\net6.0\ref\ProgLabb4.dll
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\obj\Debug\net6.0\ProgLabb4.pdb
+C:\Users\shotd\source\repos\ProgLabb4\ProgLabb4\obj\Debug\net6.0\ProgLabb4.genruntimeconfig.cache
